@@ -37,7 +37,7 @@ This project is a Python-based tool for detecting anomalies in network data. It 
 1. Place your network data in CSV format (see `sample.csv` for an example).
 2. Run the main application:
    ```bash
-   python app.py
+   streamlit run app.py 
    ```
 3. Follow the prompts or configure settings in `config.py` as needed.
 
